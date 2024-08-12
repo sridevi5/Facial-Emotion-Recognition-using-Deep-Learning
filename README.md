@@ -1,2 +1,2 @@
 # Facial-Emotion-Recognition-using-Deep-Learning
-Designed and implemented a deep learning model to detect and classify human emotions from facial expressions using the FER2013 dataset. 
+Designed and implemented a deep learning model to detect and classify human emotions from facial expressions using the FER-2013 dataset. Utilized CNNs in Keras with TensorFlow for training, with data preprocessing, image augmentation, and feature extraction. Integrated real-time emotion recognition via OpenCV for live video processing and employed NumPy for efficient data handling.
